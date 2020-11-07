@@ -1,0 +1,46 @@
+Pre-processor directive : #include <stdio.h>
+Function : main
+Special symbol : (
+Special symbol : )
+Special symbol : {
+Data type : int
+Identifier : number1
+Delimiter: ,
+Identifier : number2
+Delimiter: ,
+Identifier : sum
+Delimiter: ;
+Function : printf
+Special symbol : (
+String : "Enter two integers: "
+Special symbol : )
+Delimiter: ;
+Function : scanf
+Special symbol : (
+String : "%d %d"
+Delimiter: ,
+Special symbol : &
+Identifier : number1
+Delimiter: ,
+Special symbol : &
+Identifier : number2
+Special symbol : )
+Delimiter: ;
+Single line comment : // calculating sum
+Identifier : sum
+Assignment operator : =
+Identifier : number1
+Arithmetic operator : +
+Identifier : number2
+Delimiter: ;
+Function : printf
+Special symbol : (
+String : "Sum is :"
+Delimiter: ,
+Identifier : sum
+Special symbol : )
+Delimiter: ;
+Keyword : return
+Integer : 0
+Delimiter: ;
+Special symbol : }
